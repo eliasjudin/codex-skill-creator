@@ -8,10 +8,11 @@ This repository has been adapted from `anthropics/skills` (`anthropic/skills`).
 
 ## Install
 
-Clone into your Codex skills directory:
+The skill folder is `skill-creator/`. Copy it into your Codex skills directory:
 
 ```bash
-git clone <this-repo> ~/.codex/skills/skill-creator
+git clone <this-repo>
+cp -R codex-skill-creator/skill-creator ~/.codex/skills/skill-creator
 ```
 
 Restart Codex, then insert the skill via `/skills` or mention `$skill-creator`.
