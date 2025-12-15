@@ -4,7 +4,7 @@ Guidance + helper scripts for creating effective Codex skills (folders containin
 
 ## Attribution
 
-This repository has been adapted from `anthropics/skills`.
+This repository has been adapted from `anthropics/skills` (`anthropic/skills`).
 
 ## Install
 
